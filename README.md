@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
+| [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
