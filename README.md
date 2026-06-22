@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Design
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
