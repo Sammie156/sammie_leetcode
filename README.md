@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sammie156/sammie_leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sammie156/sammie_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sammie156/sammie_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sammie156/sammie_leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sammie156/sammie_leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sammie156/sammie_leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 ## Graph Theory
