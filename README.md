@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sammie156/sammie_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sammie156/sammie_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 ## Database
 |  |
 | ------- |
