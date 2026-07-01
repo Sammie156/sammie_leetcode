@@ -1,55 +1,48 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int fresh = 0;
         int rows = grid.size();
         int cols = grid[0].size();
-        queue<pair<int, int>> rotten;
+
+        queue<pair<int, int>> q;
+        int fresh = 0;
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
+                if (grid[i][j] == 2) q.push({i, j});
                 if (grid[i][j] == 1) fresh++;
-                if (grid[i][j] == 2) {
-                    rotten.push({i, j});
-                }
             }
         }
 
         int minutes = 0;
 
-        while (!rotten.empty()) {
-            int size = rotten.size();
+        while (!q.empty()) {
+            int size = q.size();
 
             for (int i = 0; i < size; i++) {
-                auto [r, c] = rotten.front();
-                rotten.pop();
+                auto [r, c] = q.front();
+                q.pop();
 
-                if (r - 1 >= 0 && grid[r - 1][c] == 1) {
-                    grid[r - 1][c] = 2;
-                    rotten.push({r - 1, c});
-                    fresh--;
+                int dr[4] = {1, -1, 0, 0};
+                int dc[4] = {0, 0, 1, -1};
+
+                for (int j = 0; j < 4; j++) {
+                    int nr = r + dr[j];
+                    int nc = c + dc[j];
+
+                    if (nr < 0 || nr >= rows || nc < 0 || nc >= cols)
+                        continue;
+                    
+                    if (grid[nr][nc] == 1) {
+                        q.push({nr, nc});
+                        fresh--;
+                        grid[nr][nc] = 2;
+                    }
                 }
-                if (r + 1 < grid.size() && grid[r + 1][c] == 1) {
-                    grid[r + 1][c] = 2;
-                    rotten.push({r + 1, c});
-                    fresh--;
-                }
-                if (c - 1 >= 0 && grid[r][c - 1] == 1) {
-                    grid[r][c - 1] = 2;
-                    rotten.push({r, c - 1});
-                    fresh--;
-                }
-                if (c + 1 < grid[0].size() && grid[r][c + 1] == 1) {
-                    grid[r][c + 1] = 2;
-                    rotten.push({r, c + 1});
-                    fresh--;
-                }
+
             }
-
-            if (!rotten.empty()) minutes++;
+            if (!q.empty()) minutes++;
         }
-
-        cout << fresh << endl;
 
         if (fresh == 0) return minutes;
         else return -1;
