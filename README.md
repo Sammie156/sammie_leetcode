@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sammie156/sammie_leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sammie156/sammie_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -206,10 +210,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Database
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Sammie156/sammie_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Sammie156/sammie_leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sammie156/sammie_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Topological Sort
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 <!---LeetCode Topics End-->
