@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sammie156/sammie_leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sammie156/sammie_leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
 ## Sorting
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sammie156/sammie_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sammie156/sammie_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sammie156/sammie_leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sammie156/sammie_leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
