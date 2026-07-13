@@ -251,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Sammie156/sammie_leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
