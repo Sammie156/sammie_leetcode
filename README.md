@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sammie156/sammie_leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sammie156/sammie_leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sammie156/sammie_leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Backtracking
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sammie156/sammie_leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sammie156/sammie_leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
