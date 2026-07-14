@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sammie156/sammie_leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Binary Tree
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sammie156/sammie_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Design
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sammie156/sammie_leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
