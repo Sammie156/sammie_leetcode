@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [1753-path-with-minimum-effort](https://github.com/Sammie156/sammie_leetcode/tree/master/1753-path-with-minimum-effort) |
 ## String Matching
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/Sammie156/sammie_leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Database
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Enumeration
 |  |
