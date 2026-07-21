@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sammie156/sammie_leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0338-counting-bits) |
 ## Binary Search Tree
