@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Sammie156/sammie_leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Sammie156/sammie_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sammie156/sammie_leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Sammie156/sammie_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0338-counting-bits) |
 ## Binary Search Tree
