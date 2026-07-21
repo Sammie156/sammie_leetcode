@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sammie156/sammie_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sammie156/sammie_leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sammie156/sammie_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Design
@@ -226,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sammie156/sammie_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [1753-path-with-minimum-effort](https://github.com/Sammie156/sammie_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Sammie156/sammie_leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
