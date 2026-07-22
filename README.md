@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sammie156/sammie_leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Sammie156/sammie_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sammie156/sammie_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sammie156/sammie_leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sammie156/sammie_leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sammie156/sammie_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Sammie156/sammie_leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sammie156/sammie_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
