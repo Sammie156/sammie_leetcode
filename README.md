@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Sammie156/sammie_leetcode/tree/master/0283-move-zeroes) |
+| [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
