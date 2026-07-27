@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
+| [1250-longest-common-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Binary Tree
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0338-counting-bits) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sammie156/sammie_leetcode/tree/master/1234-number-of-paths-with-max-score) |
+| [1250-longest-common-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/1250-longest-common-subsequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sammie156/sammie_leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Greedy
