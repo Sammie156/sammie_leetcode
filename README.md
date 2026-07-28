@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sammie156/sammie_leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sammie156/sammie_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sammie156/sammie_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Sammie156/sammie_leetcode/tree/master/0647-palindromic-substrings) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sammie156/sammie_leetcode/tree/master/1234-number-of-paths-with-max-score) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sammie156/sammie_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
