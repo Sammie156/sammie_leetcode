@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sammie156/sammie_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/Sammie156/sammie_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sammie156/sammie_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/Sammie156/sammie_leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
