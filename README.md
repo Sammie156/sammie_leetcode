@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sammie156/sammie_leetcode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Sammie156/sammie_leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sammie156/sammie_leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sammie156/sammie_leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Sammie156/sammie_leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sammie156/sammie_leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sammie156/sammie_leetcode/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sammie156/sammie_leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
