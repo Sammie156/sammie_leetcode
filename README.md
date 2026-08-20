@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sammie156/sammie_leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sammie156/sammie_leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sammie156/sammie_leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Sammie156/sammie_leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Design
@@ -228,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sammie156/sammie_leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Breadth-First Search
 |  |
