@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Sammie156/sammie_leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Sammie156/sammie_leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Sammie156/sammie_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Sammie156/sammie_leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Sammie156/sammie_leetcode/tree/master/1127-last-stone-weight) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/Sammie156/sammie_leetcode/tree/master/0753-open-the-lock) |
+| [0940-fruit-into-baskets](https://github.com/Sammie156/sammie_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/Sammie156/sammie_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Design
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sammie156/sammie_leetcode/tree/master/0076-minimum-window-substring) |
+| [0940-fruit-into-baskets](https://github.com/Sammie156/sammie_leetcode/tree/master/0940-fruit-into-baskets) |
 ## Bidirectional Search
 |  |
 | ------- |
