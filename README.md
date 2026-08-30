@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sammie156/sammie_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Sammie156/sammie_leetcode/tree/master/0183-customers-who-never-order) |
+| [0596-classes-with-at-least-5-students](https://github.com/Sammie156/sammie_leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/Sammie156/sammie_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Sammie156/sammie_leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sammie156/sammie_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
