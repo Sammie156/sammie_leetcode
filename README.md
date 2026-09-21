@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sammie156/sammie_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sammie156/sammie_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Sammie156/sammie_leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sammie156/sammie_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Sammie156/sammie_leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sammie156/sammie_leetcode/tree/master/0394-decode-string) |
