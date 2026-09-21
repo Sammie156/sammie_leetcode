@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sammie156/sammie_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sammie156/sammie_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Sammie156/sammie_leetcode/tree/master/0143-reorder-list) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sammie156/sammie_leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/Sammie156/sammie_leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -397,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sammie156/sammie_leetcode/tree/master/0032-longest-valid-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
