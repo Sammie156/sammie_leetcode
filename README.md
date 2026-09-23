@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sammie156/sammie_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Sammie156/sammie_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sammie156/sammie_leetcode/tree/master/0621-task-scheduler) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sammie156/sammie_leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sammie156/sammie_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Sammie156/sammie_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sammie156/sammie_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Sammie156/sammie_leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Sammie156/sammie_leetcode/tree/master/0647-palindromic-substrings) |
 | [1234-number-of-paths-with-max-score](https://github.com/Sammie156/sammie_leetcode/tree/master/1234-number-of-paths-with-max-score) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sammie156/sammie_leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Sammie156/sammie_leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Sammie156/sammie_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sammie156/sammie_leetcode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sammie156/sammie_leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sammie156/sammie_leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sammie156/sammie_leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [1300-critical-connections-in-a-network](https://github.com/Sammie156/sammie_leetcode/tree/master/1300-critical-connections-in-a-network) |
@@ -370,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sammie156/sammie_leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -395,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sammie156/sammie_leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Sammie156/sammie_leetcode/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -412,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sammie156/sammie_leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sammie156/sammie_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
