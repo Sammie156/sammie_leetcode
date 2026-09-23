@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sammie156/sammie_leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/Sammie156/sammie_leetcode/tree/master/0854-making-a-large-island) |
+| [1300-critical-connections-in-a-network](https://github.com/Sammie156/sammie_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1753-path-with-minimum-effort](https://github.com/Sammie156/sammie_leetcode/tree/master/1753-path-with-minimum-effort) |
 ## String Matching
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Sammie156/sammie_leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Sammie156/sammie_leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sammie156/sammie_leetcode/tree/master/0744-network-delay-time) |
+| [1300-critical-connections-in-a-network](https://github.com/Sammie156/sammie_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [3919-network-recovery-pathways](https://github.com/Sammie156/sammie_leetcode/tree/master/3919-network-recovery-pathways) |
 ## Database
 |  |
@@ -422,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sammie156/sammie_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Sammie156/sammie_leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Sammie156/sammie_leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
